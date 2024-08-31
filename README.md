@@ -1,3 +1,3 @@
 # Oddbots FLL Challenge team
 
-[Submerged](https://github.com/bnobu/Oddbots-FLL/blob/master/Submerged)
+[Submerged](https://github.com/bnobu/Oddbots-FLL/blob/main/Submerged)
